@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Clever Chat</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="send">Send Message</string>
+    <string name="host_ip">HOST IP : </string>
+    <string name="name">YOUR NAME : </string>
+    <string name="Start_Chat">Start Chat </string>
+    <string name="quit">Quit </string>
+
+</resources>
